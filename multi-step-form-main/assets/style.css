@@ -194,7 +194,7 @@ button {
   }
 }
 
-@media screen and (min-width:768px) and (max-width:1140px){
+@media screen and (min-width:768px) and (max-width:1250px){
 
   .text1{
     width:100px;
@@ -209,8 +209,8 @@ button {
     width:50%;
   }
   .section2{
-    width: 180%;
-    padding-left: 30px;
+    width: 160%;
+    padding-left: 20px;
   }
   .info{
     width: 80%;
